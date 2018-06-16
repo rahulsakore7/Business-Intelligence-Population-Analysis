@@ -1,4 +1,4 @@
-# Business-Intelligence-Population-Analysis
+# PowerBI- Population-Analysis
 
 Designed and developed dashborads from visualizations and reports to present insights from population data
 Extracted, pre-processed and applied cleaning strategies to get good quality data set
